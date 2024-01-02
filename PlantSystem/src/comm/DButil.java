@@ -23,8 +23,8 @@ public class DButil {
     public DButil(){
     	//考虑写个配置文件，调用本地的配置文件就可以不用修改这里
         url = "jdbc:sqlserver://localhost:1433;databaseName=plant;trustServerCertificate=true;autoReconnect=true;";
-        user = "zy";
-        password = "123456";
+        user = "wuyanling";
+        password = "200251";
         classdriver = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
     }
 
