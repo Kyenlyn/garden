@@ -6,7 +6,7 @@ import java.util.Map;
 
 import DAO.treatmentDAO;
 import bean.treatment;
-import service.function;
+import comm.function;
 
 public class treatmentDAOImpl implements treatmentDAO{
 	//根据药剂编号获取防治方法编号

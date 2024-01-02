@@ -6,7 +6,7 @@ import java.util.Map;
 
 import DAO.errorDAO;
 import bean.error;
-import service.function;
+import comm.function;
 
 public class errorDAOImpl implements errorDAO{
 	@Override

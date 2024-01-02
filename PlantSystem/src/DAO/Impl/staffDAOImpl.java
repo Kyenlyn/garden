@@ -6,7 +6,7 @@ import java.util.Map;
 
 import DAO.staffDAO;
 import bean.staff;
-import service.function;
+import comm.function;
 
 public class staffDAOImpl implements staffDAO{
 	//增加监测人员表记录
