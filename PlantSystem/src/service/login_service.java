@@ -1,4 +1,4 @@
-
+package service;
 
 import java.util.Map;
 import java.util.Scanner;
@@ -506,7 +506,7 @@ public class login_service {
                 case 1:
                     System.out.println("管理养护人员");
                     upkeepStaff_service upkeepstaffservice = new upkeepStaff_service();
-		    upkeepstaffservice.manageUStaff();
+                    upkeepstaffservice.manageUStaff();
                     break;
                 case 2:
                     System.out.println("管理养护任务");

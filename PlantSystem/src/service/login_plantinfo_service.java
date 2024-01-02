@@ -1,3 +1,5 @@
+package service;
+
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -18,7 +20,6 @@ import bean.PlantDetailView;
 import bean.PlantInfo;
 import DAO.Impl.plant_infoDAOImpl;
 import DAO.Impl.image_infoDAOImpl;
-import bean.PlantInfo;
 import DAO.*;
 import DAO.Impl.*;
 
