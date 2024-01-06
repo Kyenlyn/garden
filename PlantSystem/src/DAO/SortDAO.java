@@ -8,7 +8,6 @@ import bean.Sort;
 import java.util.List;
 
 import java.sql.SQLException;
-import java.util.List;
 
 public interface SortDAO {
     Sort getSortById(String sortId);

@@ -1,13 +1,11 @@
 package DAO;
 
-import java.sql.Connection;
 import java.util.List;
 import java.util.Map;
 
 import bean.PlantDetailView;
 import bean.PlantInfo;
 import bean.PlantUnionView;
-import comm.DButil;
 
 public interface plant_infoDAO {
 
