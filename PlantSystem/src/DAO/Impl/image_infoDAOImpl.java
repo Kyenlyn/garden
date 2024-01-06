@@ -8,7 +8,6 @@ import java.util.Map;
 import DAO.image_infoDAO;
 import comm.DButil;
 import bean.ImageInfo;
-import bean.PlantInfo;
 
 public class image_infoDAOImpl implements image_infoDAO {
 
