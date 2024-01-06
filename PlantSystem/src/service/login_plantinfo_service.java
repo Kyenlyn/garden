@@ -20,8 +20,6 @@ import bean.PlantDetailView;
 import bean.PlantInfo;
 import DAO.Impl.plant_infoDAOImpl;
 import DAO.Impl.image_infoDAOImpl;
-import DAO.*;
-import DAO.Impl.*;
 
 public class login_plantinfo_service {
 	 public static void main(String[] args) {
